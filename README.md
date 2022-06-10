@@ -20,3 +20,5 @@ The following AWS managed policies are required to deploy the application:
     AmazonS3FullAccess
 
     AmazonEC2ContainerRegistryFullAccess
+
+    CloudWatchFullAccess 
